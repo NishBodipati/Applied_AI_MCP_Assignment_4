@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "job-application-tracker": {
+      "command": "/Users/nishithabodipati/Apllied_AI_MCP/.venv/bin/python",
+      "args": ["/Users/nishithabodipati/Apllied_AI_MCP/server.py"]
+    }
+  }
+}
